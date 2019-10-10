@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Instrukcje warunkowe\Instrukcje warunkowe\obj\Debug\Instrukcje warunkowe.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Instrukcje warunkowe\Instrukcje warunkowe\obj\Debug\Instrukcje warunkowe.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Instrukcje warunkowe\Instrukcje warunkowe\bin\Debug\Instrukcje warunkowe.exe.config
+C:\Users\Student\source\repos\Instrukcje warunkowe\Instrukcje warunkowe\bin\Debug\Instrukcje warunkowe.exe
+C:\Users\Student\source\repos\Instrukcje warunkowe\Instrukcje warunkowe\bin\Debug\Instrukcje warunkowe.pdb
+C:\Users\Student\source\repos\Instrukcje warunkowe\Instrukcje warunkowe\obj\Debug\Instrukcje warunkowe.exe
+C:\Users\Student\source\repos\Instrukcje warunkowe\Instrukcje warunkowe\obj\Debug\Instrukcje warunkowe.pdb
