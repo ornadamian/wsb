@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\2_switch\2_switch\obj\Debug\2_switch.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\2_switch\2_switch\bin\Debug\2_switch.exe.config
+C:\Users\Student\source\repos\2_switch\2_switch\bin\Debug\2_switch.exe
+C:\Users\Student\source\repos\2_switch\2_switch\bin\Debug\2_switch.pdb
+C:\Users\Student\source\repos\2_switch\2_switch\obj\Debug\2_switch.exe
+C:\Users\Student\source\repos\2_switch\2_switch\obj\Debug\2_switch.pdb
