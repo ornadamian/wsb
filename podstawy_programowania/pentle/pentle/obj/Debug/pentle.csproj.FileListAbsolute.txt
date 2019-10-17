@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\pentle\pentle\bin\Debug\pentle.exe.config
+C:\Users\Student\Desktop\pentle\pentle\bin\Debug\pentle.exe
+C:\Users\Student\Desktop\pentle\pentle\bin\Debug\pentle.pdb
+C:\Users\Student\Desktop\pentle\pentle\obj\Debug\pentle.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\pentle\pentle\obj\Debug\pentle.exe
+C:\Users\Student\Desktop\pentle\pentle\obj\Debug\pentle.pdb
