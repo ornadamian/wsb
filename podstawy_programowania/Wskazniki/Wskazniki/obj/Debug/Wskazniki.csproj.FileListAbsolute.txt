@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Wskazniki\Wskazniki\obj\Debug\Wskazniki.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Wskazniki\Wskazniki\bin\Debug\Wskazniki.exe.config
+C:\Users\Student\source\repos\Wskazniki\Wskazniki\bin\Debug\Wskazniki.exe
+C:\Users\Student\source\repos\Wskazniki\Wskazniki\bin\Debug\Wskazniki.pdb
+C:\Users\Student\source\repos\Wskazniki\Wskazniki\obj\Debug\Wskazniki.exe
+C:\Users\Student\source\repos\Wskazniki\Wskazniki\obj\Debug\Wskazniki.pdb
