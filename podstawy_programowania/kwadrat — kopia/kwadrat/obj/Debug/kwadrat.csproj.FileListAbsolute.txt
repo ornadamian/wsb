@@ -1,0 +1,19 @@
+C:\Users\Student\source\repos\kwadrat\kwadrat\bin\Debug\kwadrat.exe.config
+C:\Users\Student\source\repos\kwadrat\kwadrat\bin\Debug\kwadrat.exe
+C:\Users\Student\source\repos\kwadrat\kwadrat\bin\Debug\kwadrat.pdb
+C:\Users\Student\source\repos\kwadrat\kwadrat\obj\Debug\kwadrat.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\kwadrat\kwadrat\obj\Debug\kwadrat.Form1.resources
+C:\Users\Student\source\repos\kwadrat\kwadrat\obj\Debug\kwadrat.Properties.Resources.resources
+C:\Users\Student\source\repos\kwadrat\kwadrat\obj\Debug\kwadrat.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\kwadrat\kwadrat\obj\Debug\kwadrat.exe
+C:\Users\Student\source\repos\kwadrat\kwadrat\obj\Debug\kwadrat.pdb
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\bin\Debug\kwadrat.exe.config
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\bin\Debug\kwadrat.exe
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\bin\Debug\kwadrat.pdb
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\obj\Debug\kwadrat.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\obj\Debug\kwadrat.Form1.resources
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\obj\Debug\kwadrat.Properties.Resources.resources
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\obj\Debug\kwadrat.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\obj\Debug\kwadrat.exe
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\obj\Debug\kwadrat.pdb
+C:\Users\Student\source\repos\kwadrat — kopia\kwadrat\obj\Debug\kwadrat.btncloseprogram.resources
